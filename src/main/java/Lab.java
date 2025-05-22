@@ -1,5 +1,4 @@
-import java.util.Deque;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Queues are FIFO - first in, first out, like a checkout line. They are used in algorithms where it is needed to keep
